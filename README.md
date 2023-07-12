@@ -46,7 +46,7 @@ Make sure you have the following softwares:
 2. Navigate to the project directory:
 
    ```shell
-    cd hotel-management
+    cd Restaurant-Management
 3. Set up environment variables:
 
     Create a .env file in the root directory of the project.
