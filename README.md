@@ -63,26 +63,47 @@ Use the provided features to manage reservations, orders, inventory, staff, and 
 ## File Structure
 
 hotel-management/
+
 ├── backend/
+
 │   ├── models/         # Database models
+
 │   ├── routes/         # Express routes
+
 │   ├── .env            # Environment variables
+
 │   ├── app.js          # Express server setup
+
 │   └── ...
+
 ├── frontend/
+
 │   ├── public/         # Public assets
+
 │   ├── src/            # Source code
+
 │   │   ├── components/ # React components
+
 │   │   ├── pages/      # React pages
+
 │   │   ├── services/   # API services
+
 │   │   ├── utils/      # Utility functions
+
 │   │   ├── App.js      # Root component
+
 │   │   └── index.js    # Entry point
+
 │   ├── .env            # Environment variables
+
 │   └── ...
+
 ├── API.md              # API documentation
+
 ├── LICENSE             # License information
+
 └── README.md           # Project README file
+
 
 
 ## Contributing
