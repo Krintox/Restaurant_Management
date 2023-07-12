@@ -45,6 +45,7 @@ Make sure you have the following softwares:
 
 2. Navigate to the project directory:
 
+   ```shell
     cd hotel-management
 3. Set up environment variables:
 
@@ -97,8 +98,6 @@ hotel-management/
 │   ├── .env            # Environment variables
 
 │   └── ...
-
-├── API.md              # API documentation
 
 ├── LICENSE             # License information
 
